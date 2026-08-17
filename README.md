@@ -12,9 +12,7 @@
 FlowDec is a novel image restoration framework tailored for LM-based VLN-CE. FlowDec integrates a hybrid temporal conditioning strategy to align the generative flow path with historical context and employs action-centroid guided filtering to dynamically assess and integrate outputs. 
 
 ## Experimental Results
-![image](https://github.com/FeeFee-1/FlowDec-Temporal-Conditional-Flow-Decorruptor-for-Robust-Continuous-Vision-Language-Navigation/blob/main/figs/2.png)
 ![image](https://github.com/FeeFee-1/FlowDec-Temporal-Conditional-Flow-Decorruptor-for-Robust-Continuous-Vision-Language-Navigation/blob/main/figs/4.png)
-![image](https://github.com/FeeFee-1/FlowDec-Temporal-Conditional-Flow-Decorruptor-for-Robust-Continuous-Vision-Language-Navigation/blob/main/figs/3.png)
 ---
 
 ## Deployment
